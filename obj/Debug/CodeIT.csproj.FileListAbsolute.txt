@@ -1,0 +1,11 @@
+c:\users\hp\documents\visual studio 2015\Projects\CodeIT\CodeIT\bin\Debug\CodeIT.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\CodeIT\CodeIT\bin\Debug\CodeIT.exe
+c:\users\hp\documents\visual studio 2015\Projects\CodeIT\CodeIT\bin\Debug\CodeIT.pdb
+c:\users\hp\documents\visual studio 2015\Projects\CodeIT\CodeIT\obj\Debug\CodeIT.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\CodeIT\CodeIT\obj\Debug\CodeIT.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\CodeIT\CodeIT\obj\Debug\CodeIT.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\CodeIT\CodeIT\obj\Debug\CodeIT.exe
+c:\users\hp\documents\visual studio 2015\Projects\CodeIT\CodeIT\obj\Debug\CodeIT.pdb
+C:\Users\Hp\documents\visual studio 2015\Projects\CodeIT\CodeIT\obj\Debug\CodeIT.Form1.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\CodeIT\CodeIT\bin\Debug\ScintillaNET.dll
+C:\Users\Hp\documents\visual studio 2015\Projects\CodeIT\CodeIT\bin\Debug\ScintillaNET.xml
